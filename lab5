@@ -2,7 +2,7 @@
 
 int main()
 {
-    //Задание №1
+    //№1
     int massiveLen;
     scanf("%d", &massiveLen);
     int massive[massiveLen];
@@ -17,7 +17,7 @@ int main()
 
     printf("\n");
 
-    //Задание №2
+    //№2
     int matrix1[2][2];
     int matrix2[2][2];
     int matrix3[2][2];
